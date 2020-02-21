@@ -10,4 +10,4 @@ These are lists.
 Steps:
 1. Make a Branch and switch to it.
 2. Make a commit  or more
-3. when you are done, you push the branch to github
+3. when you are done, you push the branch to github.
